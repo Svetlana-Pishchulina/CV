@@ -80,9 +80,11 @@ body {
 
 .profession {
   margin-bottom: 20px;
+  padding-bottom: 20px;
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 8px;
+  border-bottom: #006d77 solid 5px;
 }
 
 /* .side-block:not(:last-child) */
