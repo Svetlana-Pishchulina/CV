@@ -124,7 +124,7 @@ body {
 }
 
 .projects-link {
-  display: block;
+  /* display: block; */
   text-decoration: underline;
 }
 
